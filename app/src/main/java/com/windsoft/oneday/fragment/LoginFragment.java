@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import com.windsoft.oneday.R;
 
 /**
- * Created by ironFactory on 2015-08-02.
+ * Created by dongkyu Lee on 2015-08-02.
  */
 public class LoginFragment extends Fragment {
 
